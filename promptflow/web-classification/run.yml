@@ -3,7 +3,7 @@ flow: .
 data: data.jsonl
 
 # define cloud resource
-runtime: core-compute-instance-runtime
+runtime: core-compute-llmops
 
 connections:
   classify_with_llm:
