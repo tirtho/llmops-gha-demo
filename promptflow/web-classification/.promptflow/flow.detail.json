@@ -1,7 +1,7 @@
 {
   "flow_runs": [
     {
-      "run_id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2_0",
+      "run_id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2_0",
       "status": "Completed",
       "error": null,
       "inputs": {
@@ -13,12 +13,12 @@
       },
       "metrics": null,
       "request": null,
-      "parent_run_id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2",
-      "root_run_id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2",
+      "parent_run_id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2",
+      "root_run_id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2",
       "source_run_id": null,
       "flow_id": "default_flow_id",
-      "start_time": "2023-12-07T23:16:44.768443Z",
-      "end_time": "2023-12-07T23:16:47.808369Z",
+      "start_time": "2023-12-08T01:25:54.166559Z",
+      "end_time": "2023-12-08T01:25:57.603013Z",
       "index": 0,
       "api_calls": [
         {
@@ -28,8 +28,8 @@
             "url": "https://www.ietf.org"
           },
           "output": "\nIETF  | Internet Engineering Task ForceSkip to main content\n                Search\n            \n                        About us\n                    Introduction to the IETFGroupsOpen recordsAdministrationLiaisons\n                        Topics of interest\n                    Automated network managementThe Internet of ThingsNew transport technologySecurity & privacyIETF AreasWorking Group keywords\n                        Participate\n                    Working groupsMailing listsInternet-DraftsMeetingsHackathonsBirds of a Feather\n                        Internet standards\n                    RFCsIntellectual property rightsStandards processPublishing and accessing RFCsProtocol registries (IANA)News & blogSupport usContactLinksQuick linksIETF 119 BrisbaneI-D author resourcesWG chair resourcesIETF DatatrackerEmail list archive search\n                            Search\n                        \n                            Donate\n                        \n                Donate\n            GoWelcome to the IETFIETF 119 Brisbane registration is openRegistration for IETF 119 Brisbane is now open. Join more than 1000 leading technologists in 100s of sessions, including the IETF Hackathon, from 16-22 March 2024.Learn more and register todayUpcoming eventsIETF 119 Brisbane IETF 119 starts Saturday 16 March and runs through Friday afternoon, 22 March.IETF 120 Vancouver IETF 120 starts Saturday 20 July and runs through Friday afternoon, 26 July.All eventsWhat's new?\n                                        IETF Administration LLC 2024 Draft Budget \n                                        The IETF Administration LLC has prepared its draft budget for 2024 and now seeks community feedback.6 Dec 2023\n                                        IETF 118 post-meeting survey \n                                        IETF 118 Prague was held 4-10 November 2023 and the results of the post-meeting survey are now available on a web-based interactive dashboard.30 Nov 2023All newsSearch the IETF",
-          "start_time": 1702009004.770443,
-          "end_time": 1702009005.306161,
+          "start_time": 1702016754.170557,
+          "end_time": 1702016754.649871,
           "error": null,
           "children": null,
           "node_name": "fetch_text_content_from_url"
@@ -64,8 +64,8 @@
               "evidence": "None"
             }
           ],
-          "start_time": 1702009004.771531,
-          "end_time": 1702009004.771531,
+          "start_time": 1702016754.171557,
+          "end_time": 1702016754.171557,
           "error": null,
           "children": null,
           "node_name": "prepare_examples"
@@ -80,16 +80,16 @@
             "temperature": 0.2,
             "text": "\nIETF  | Internet Engineering Task ForceSkip to main content\n                Search\n            \n                        About us\n                    Introduction to the IETFGroupsOpen recordsAdministrationLiaisons\n                        Topics of interest\n                    Automated network managementThe Internet of ThingsNew transport technologySecurity & privacyIETF AreasWorking Group keywords\n                        Participate\n                    Working groupsMailing listsInternet-DraftsMeetingsHackathonsBirds of a Feather\n                        Internet standards\n                    RFCsIntellectual property rightsStandards processPublishing and accessing RFCsProtocol registries (IANA)News & blogSupport usContactLinksQuick linksIETF 119 BrisbaneI-D author resourcesWG chair resourcesIETF DatatrackerEmail list archive search\n                            Search\n                        \n                            Donate\n                        \n                Donate\n            GoWelcome to the IETFIETF 119 Brisbane registration is openRegistration for IETF 119 Brisbane is now open. Join more than 1000 leading technologists in 100s of sessions, including the IETF Hackathon, from 16-22 March 2024.Learn more and register todayUpcoming eventsIETF 119 Brisbane IETF 119 starts Saturday 16 March and runs through Friday afternoon, 22 March.IETF 120 Vancouver IETF 120 starts Saturday 20 July and runs through Friday afternoon, 26 July.All eventsWhat's new?\n                                        IETF Administration LLC 2024 Draft Budget \n                                        The IETF Administration LLC has prepared its draft budget for 2024 and now seeks community feedback.6 Dec 2023\n                                        IETF 118 post-meeting survey \n                                        IETF 118 Prague was held 4-10 November 2023 and the results of the post-meeting survey are now available on a web-based interactive dashboard.30 Nov 2023All newsSearch the IETF"
           },
-          "output": "The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from 16-22 March 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard.",
-          "start_time": 1702009005.309661,
-          "end_time": 1702009007.302003,
+          "output": "The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from March 16-22, 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard.",
+          "start_time": 1702016754.653217,
+          "end_time": 1702016756.832965,
           "error": null,
           "children": [
             {
               "name": "openai.resources.chat.completions.Completions.create",
               "type": "LLM",
               "inputs": {
-                "self": "<openai.resources.chat.completions.Completions object at 0x00000182354C3D40>",
+                "self": "<openai.resources.chat.completions.Completions object at 0x0000020F78C3D790>",
                 "model": "tr-prod-openai-gpt-35-turbo-0613",
                 "messages": [
                   {
@@ -116,18 +116,18 @@
                   "ms-azure-ai-promptflow-user-agent": "promptflow-cli/1.1.1 prompt-flow-extension/1.6.0 (win32; x64) VSCode/1.85.0 promptflow-sdk/1.1.1",
                   "ms-azure-ai-promptflow-run-mode": "Test",
                   "ms-azure-ai-promptflow-flow-id": "default_flow_id",
-                  "ms-azure-ai-promptflow-root-run-id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2",
+                  "ms-azure-ai-promptflow-root-run-id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2",
                   "ms-azure-ai-promptflow-called-from": "aoai-tool"
                 }
               },
               "output": {
-                "id": "chatcmpl-8THtl9XpFsjhzeG9qiYo52kmSiGdz",
+                "id": "chatcmpl-8TJulyybAItQcJAY62WkUS3Me4lo2",
                 "choices": [
                   {
                     "finish_reason": "stop",
                     "index": 0,
                     "message": {
-                      "content": "The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from 16-22 March 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard.",
+                      "content": "The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from March 16-22, 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard.",
                       "role": "assistant",
                       "function_call": null,
                       "tool_calls": null
@@ -152,14 +152,14 @@
                     }
                   }
                 ],
-                "created": 1701991005,
+                "created": 1701998755,
                 "model": "gpt-35-turbo",
                 "object": "chat.completion",
                 "system_fingerprint": null,
                 "usage": {
-                  "completion_tokens": 104,
+                  "completion_tokens": 105,
                   "prompt_tokens": 409,
-                  "total_tokens": 513
+                  "total_tokens": 514
                 },
                 "prompt_filter_results": [
                   {
@@ -185,8 +185,8 @@
                   }
                 ]
               },
-              "start_time": 1702009005.313029,
-              "end_time": 1702009007.302003,
+              "start_time": 1702016754.655733,
+              "end_time": 1702016756.832965,
               "error": null,
               "children": null,
               "node_name": null
@@ -228,19 +228,19 @@
             ],
             "max_tokens": 128,
             "temperature": 0.2,
-            "text_content": "The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from 16-22 March 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard.",
+            "text_content": "The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from March 16-22, 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard.",
             "url": "https://www.ietf.org"
           },
           "output": "{\"category\": \"Academic\", \"evidence\": \"Text content\"}",
-          "start_time": 1702009007.307442,
-          "end_time": 1702009007.799356,
+          "start_time": 1702016756.834966,
+          "end_time": 1702016757.595025,
           "error": null,
           "children": [
             {
               "name": "openai.resources.chat.completions.Completions.create",
               "type": "LLM",
               "inputs": {
-                "self": "<openai.resources.chat.completions.Completions object at 0x00000182356EF7A0>",
+                "self": "<openai.resources.chat.completions.Completions object at 0x0000020F78C4F650>",
                 "model": "tr-prod-openai-gpt-35-turbo-0613",
                 "messages": [
                   {
@@ -249,7 +249,7 @@
                   },
                   {
                     "role": "user",
-                    "content": "The selection range of the value of \"category\" must be within \"Movie\", \"App\", \"Academic\", \"Channel\", \"Profile\", \"PDF\" and \"None\".\nThe selection range of the value of \"evidence\" must be within \"Url\", \"Text content\", and \"Both\".\nHere are a few examples:\nURL: https://play.google.com/store/apps/details?id=com.spotify.music\nText content: Spotify is a free music and podcast streaming app with millions of songs, albums, and original podcasts. It also offers audiobooks, so users can enjoy thousands of stories. It has a variety of features such as creating and sharing music playlists, discovering new music, and listening to popular and exclusive podcasts. It also has a Premium subscription option which allows users to download and listen offline, and access ad-free music. It is available on all devices and has a variety of genres and artists to choose from.\nOUTPUT:\n{\"category\": \"App\", \"evidence\": \"Both\"}\n\nURL: https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw\nText content: NFL Sunday Ticket is a service offered by Google LLC that allows users to watch NFL games on YouTube. It is available in 2023 and is subject to the terms and privacy policy of Google LLC. It is also subject to YouTube's terms of use and any applicable laws.\nOUTPUT:\n{\"category\": \"Channel\", \"evidence\": \"URL\"}\n\nURL: https://arxiv.org/abs/2303.04671\nText content: Visual ChatGPT is a system that enables users to interact with ChatGPT by sending and testreceiving not only languages but also images, providing complex visual questions or visual editing instructions, and providing feedback and asking for corrected results. It incorporates different Visual Foundation Models and is publicly available. Experiments show that Visual ChatGPT opens the door to investigating the visual roles of ChatGPT with the help of Visual Foundation Models.\nOUTPUT:\n{\"category\": \"Academic\", \"evidence\": \"Text content\"}\n\nURL: https://ab.politiaromana.ro/\nText content: There is no content available for this text.\nOUTPUT:\n{\"category\": \"None\", \"evidence\": \"None\"}\n\n\nFor a given URL and text content, classify the url to complete the category and indicate evidence:\nURL: https://www.ietf.org\nText content: The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from 16-22 March 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard..\nOUTPUT:"
+                    "content": "The selection range of the value of \"category\" must be within \"Movie\", \"App\", \"Academic\", \"Channel\", \"Profile\", \"PDF\" and \"None\".\nThe selection range of the value of \"evidence\" must be within \"Url\", \"Text content\", and \"Both\".\nHere are a few examples:\nURL: https://play.google.com/store/apps/details?id=com.spotify.music\nText content: Spotify is a free music and podcast streaming app with millions of songs, albums, and original podcasts. It also offers audiobooks, so users can enjoy thousands of stories. It has a variety of features such as creating and sharing music playlists, discovering new music, and listening to popular and exclusive podcasts. It also has a Premium subscription option which allows users to download and listen offline, and access ad-free music. It is available on all devices and has a variety of genres and artists to choose from.\nOUTPUT:\n{\"category\": \"App\", \"evidence\": \"Both\"}\n\nURL: https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw\nText content: NFL Sunday Ticket is a service offered by Google LLC that allows users to watch NFL games on YouTube. It is available in 2023 and is subject to the terms and privacy policy of Google LLC. It is also subject to YouTube's terms of use and any applicable laws.\nOUTPUT:\n{\"category\": \"Channel\", \"evidence\": \"URL\"}\n\nURL: https://arxiv.org/abs/2303.04671\nText content: Visual ChatGPT is a system that enables users to interact with ChatGPT by sending and testreceiving not only languages but also images, providing complex visual questions or visual editing instructions, and providing feedback and asking for corrected results. It incorporates different Visual Foundation Models and is publicly available. Experiments show that Visual ChatGPT opens the door to investigating the visual roles of ChatGPT with the help of Visual Foundation Models.\nOUTPUT:\n{\"category\": \"Academic\", \"evidence\": \"Text content\"}\n\nURL: https://ab.politiaromana.ro/\nText content: There is no content available for this text.\nOUTPUT:\n{\"category\": \"None\", \"evidence\": \"None\"}\n\n\nFor a given URL and text content, classify the url to complete the category and indicate evidence:\nURL: https://www.ietf.org\nText content: The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from March 16-22, 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard..\nOUTPUT:"
                   }
                 ],
                 "temperature": 0.2,
@@ -267,12 +267,12 @@
                   "ms-azure-ai-promptflow-user-agent": "promptflow-cli/1.1.1 prompt-flow-extension/1.6.0 (win32; x64) VSCode/1.85.0 promptflow-sdk/1.1.1",
                   "ms-azure-ai-promptflow-run-mode": "Test",
                   "ms-azure-ai-promptflow-flow-id": "default_flow_id",
-                  "ms-azure-ai-promptflow-root-run-id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2",
+                  "ms-azure-ai-promptflow-root-run-id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2",
                   "ms-azure-ai-promptflow-called-from": "aoai-tool"
                 }
               },
               "output": {
-                "id": "chatcmpl-8THtnqDj2cjnrHi0t6zgNw54unLyy",
+                "id": "chatcmpl-8TJunZigkE7IJevkDC6TjW4jtwjFi",
                 "choices": [
                   {
                     "finish_reason": "stop",
@@ -303,14 +303,14 @@
                     }
                   }
                 ],
-                "created": 1701991007,
+                "created": 1701998757,
                 "model": "gpt-35-turbo",
                 "object": "chat.completion",
                 "system_fingerprint": null,
                 "usage": {
                   "completion_tokens": 15,
-                  "prompt_tokens": 665,
-                  "total_tokens": 680
+                  "prompt_tokens": 666,
+                  "total_tokens": 681
                 },
                 "prompt_filter_results": [
                   {
@@ -336,8 +336,8 @@
                   }
                 ]
               },
-              "start_time": 1702009007.312629,
-              "end_time": 1702009007.799356,
+              "start_time": 1702016756.836966,
+              "end_time": 1702016757.595025,
               "error": null,
               "children": null,
               "node_name": null
@@ -355,8 +355,8 @@
             "category": "Academic",
             "evidence": "Text content"
           },
-          "start_time": 1702009007.806367,
-          "end_time": 1702009007.806367,
+          "start_time": 1702016757.601012,
+          "end_time": 1702016757.601012,
           "error": null,
           "children": null,
           "node_name": "convert_to_dict"
@@ -367,10 +367,10 @@
       "description": "",
       "tags": null,
       "system_metrics": {
-        "duration": 3.039926,
-        "prompt_tokens": 1074,
-        "completion_tokens": 119,
-        "total_tokens": 1193
+        "duration": 3.436454,
+        "prompt_tokens": 1075,
+        "completion_tokens": 120,
+        "total_tokens": 1195
       },
       "result": {
         "category": "Academic",
@@ -382,8 +382,8 @@
   "node_runs": [
     {
       "node": "fetch_text_content_from_url",
-      "flow_run_id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2",
-      "run_id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2_fetch_text_content_from_url_0",
+      "flow_run_id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2",
+      "run_id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2_fetch_text_content_from_url_0",
       "status": "Completed",
       "inputs": {
         "url": "https://www.ietf.org"
@@ -391,9 +391,9 @@
       "output": "\nIETF  | Internet Engineering Task ForceSkip to main content\n                Search\n            \n                        About us\n                    Introduction to the IETFGroupsOpen recordsAdministrationLiaisons\n                        Topics of interest\n                    Automated network managementThe Internet of ThingsNew transport technologySecurity & privacyIETF AreasWorking Group keywords\n                        Participate\n                    Working groupsMailing listsInternet-DraftsMeetingsHackathonsBirds of a Feather\n                        Internet standards\n                    RFCsIntellectual property rightsStandards processPublishing and accessing RFCsProtocol registries (IANA)News & blogSupport usContactLinksQuick linksIETF 119 BrisbaneI-D author resourcesWG chair resourcesIETF DatatrackerEmail list archive search\n                            Search\n                        \n                            Donate\n                        \n                Donate\n            GoWelcome to the IETFIETF 119 Brisbane registration is openRegistration for IETF 119 Brisbane is now open. Join more than 1000 leading technologists in 100s of sessions, including the IETF Hackathon, from 16-22 March 2024.Learn more and register todayUpcoming eventsIETF 119 Brisbane IETF 119 starts Saturday 16 March and runs through Friday afternoon, 22 March.IETF 120 Vancouver IETF 120 starts Saturday 20 July and runs through Friday afternoon, 26 July.All eventsWhat's new?\n                                        IETF Administration LLC 2024 Draft Budget \n                                        The IETF Administration LLC has prepared its draft budget for 2024 and now seeks community feedback.6 Dec 2023\n                                        IETF 118 post-meeting survey \n                                        IETF 118 Prague was held 4-10 November 2023 and the results of the post-meeting survey are now available on a web-based interactive dashboard.30 Nov 2023All newsSearch the IETF",
       "metrics": null,
       "error": null,
-      "parent_run_id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2_0",
-      "start_time": "2023-12-07T23:16:44.769446Z",
-      "end_time": "2023-12-07T23:16:45.306161Z",
+      "parent_run_id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2_0",
+      "start_time": "2023-12-08T01:25:54.169552Z",
+      "end_time": "2023-12-08T01:25:54.650871Z",
       "index": 0,
       "api_calls": [
         {
@@ -403,8 +403,8 @@
             "url": "https://www.ietf.org"
           },
           "output": "\nIETF  | Internet Engineering Task ForceSkip to main content\n                Search\n            \n                        About us\n                    Introduction to the IETFGroupsOpen recordsAdministrationLiaisons\n                        Topics of interest\n                    Automated network managementThe Internet of ThingsNew transport technologySecurity & privacyIETF AreasWorking Group keywords\n                        Participate\n                    Working groupsMailing listsInternet-DraftsMeetingsHackathonsBirds of a Feather\n                        Internet standards\n                    RFCsIntellectual property rightsStandards processPublishing and accessing RFCsProtocol registries (IANA)News & blogSupport usContactLinksQuick linksIETF 119 BrisbaneI-D author resourcesWG chair resourcesIETF DatatrackerEmail list archive search\n                            Search\n                        \n                            Donate\n                        \n                Donate\n            GoWelcome to the IETFIETF 119 Brisbane registration is openRegistration for IETF 119 Brisbane is now open. Join more than 1000 leading technologists in 100s of sessions, including the IETF Hackathon, from 16-22 March 2024.Learn more and register todayUpcoming eventsIETF 119 Brisbane IETF 119 starts Saturday 16 March and runs through Friday afternoon, 22 March.IETF 120 Vancouver IETF 120 starts Saturday 20 July and runs through Friday afternoon, 26 July.All eventsWhat's new?\n                                        IETF Administration LLC 2024 Draft Budget \n                                        The IETF Administration LLC has prepared its draft budget for 2024 and now seeks community feedback.6 Dec 2023\n                                        IETF 118 post-meeting survey \n                                        IETF 118 Prague was held 4-10 November 2023 and the results of the post-meeting survey are now available on a web-based interactive dashboard.30 Nov 2023All newsSearch the IETF",
-          "start_time": 1702009004.770443,
-          "end_time": 1702009005.306161,
+          "start_time": 1702016754.170557,
+          "end_time": 1702016754.649871,
           "error": null,
           "children": null,
           "node_name": "fetch_text_content_from_url"
@@ -418,14 +418,14 @@
         "stderr": ""
       },
       "system_metrics": {
-        "duration": 0.536715
+        "duration": 0.481319
       },
       "result": "\nIETF  | Internet Engineering Task ForceSkip to main content\n                Search\n            \n                        About us\n                    Introduction to the IETFGroupsOpen recordsAdministrationLiaisons\n                        Topics of interest\n                    Automated network managementThe Internet of ThingsNew transport technologySecurity & privacyIETF AreasWorking Group keywords\n                        Participate\n                    Working groupsMailing listsInternet-DraftsMeetingsHackathonsBirds of a Feather\n                        Internet standards\n                    RFCsIntellectual property rightsStandards processPublishing and accessing RFCsProtocol registries (IANA)News & blogSupport usContactLinksQuick linksIETF 119 BrisbaneI-D author resourcesWG chair resourcesIETF DatatrackerEmail list archive search\n                            Search\n                        \n                            Donate\n                        \n                Donate\n            GoWelcome to the IETFIETF 119 Brisbane registration is openRegistration for IETF 119 Brisbane is now open. Join more than 1000 leading technologists in 100s of sessions, including the IETF Hackathon, from 16-22 March 2024.Learn more and register todayUpcoming eventsIETF 119 Brisbane IETF 119 starts Saturday 16 March and runs through Friday afternoon, 22 March.IETF 120 Vancouver IETF 120 starts Saturday 20 July and runs through Friday afternoon, 26 July.All eventsWhat's new?\n                                        IETF Administration LLC 2024 Draft Budget \n                                        The IETF Administration LLC has prepared its draft budget for 2024 and now seeks community feedback.6 Dec 2023\n                                        IETF 118 post-meeting survey \n                                        IETF 118 Prague was held 4-10 November 2023 and the results of the post-meeting survey are now available on a web-based interactive dashboard.30 Nov 2023All newsSearch the IETF"
     },
     {
       "node": "prepare_examples",
-      "flow_run_id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2",
-      "run_id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2_prepare_examples_0",
+      "flow_run_id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2",
+      "run_id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2_prepare_examples_0",
       "status": "Completed",
       "inputs": {},
       "output": [
@@ -456,9 +456,9 @@
       ],
       "metrics": null,
       "error": null,
-      "parent_run_id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2_0",
-      "start_time": "2023-12-07T23:16:44.770443Z",
-      "end_time": "2023-12-07T23:16:44.771531Z",
+      "parent_run_id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2_0",
+      "start_time": "2023-12-08T01:25:54.170557Z",
+      "end_time": "2023-12-08T01:25:54.172615Z",
       "index": 0,
       "api_calls": [
         {
@@ -491,8 +491,8 @@
               "evidence": "None"
             }
           ],
-          "start_time": 1702009004.771531,
-          "end_time": 1702009004.771531,
+          "start_time": 1702016754.171557,
+          "end_time": 1702016754.171557,
           "error": null,
           "children": null,
           "node_name": "prepare_examples"
@@ -506,7 +506,7 @@
         "stderr": ""
       },
       "system_metrics": {
-        "duration": 0.001088
+        "duration": 0.002058
       },
       "result": [
         {
@@ -537,8 +537,8 @@
     },
     {
       "node": "summarize_text_content",
-      "flow_run_id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2",
-      "run_id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2_summarize_text_content_0",
+      "flow_run_id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2",
+      "run_id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2_summarize_text_content_0",
       "status": "Completed",
       "inputs": {
         "deployment_name": "tr-prod-openai-gpt-35-turbo-0613",
@@ -546,12 +546,12 @@
         "temperature": 0.2,
         "text": "\nIETF  | Internet Engineering Task ForceSkip to main content\n                Search\n            \n                        About us\n                    Introduction to the IETFGroupsOpen recordsAdministrationLiaisons\n                        Topics of interest\n                    Automated network managementThe Internet of ThingsNew transport technologySecurity & privacyIETF AreasWorking Group keywords\n                        Participate\n                    Working groupsMailing listsInternet-DraftsMeetingsHackathonsBirds of a Feather\n                        Internet standards\n                    RFCsIntellectual property rightsStandards processPublishing and accessing RFCsProtocol registries (IANA)News & blogSupport usContactLinksQuick linksIETF 119 BrisbaneI-D author resourcesWG chair resourcesIETF DatatrackerEmail list archive search\n                            Search\n                        \n                            Donate\n                        \n                Donate\n            GoWelcome to the IETFIETF 119 Brisbane registration is openRegistration for IETF 119 Brisbane is now open. Join more than 1000 leading technologists in 100s of sessions, including the IETF Hackathon, from 16-22 March 2024.Learn more and register todayUpcoming eventsIETF 119 Brisbane IETF 119 starts Saturday 16 March and runs through Friday afternoon, 22 March.IETF 120 Vancouver IETF 120 starts Saturday 20 July and runs through Friday afternoon, 26 July.All eventsWhat's new?\n                                        IETF Administration LLC 2024 Draft Budget \n                                        The IETF Administration LLC has prepared its draft budget for 2024 and now seeks community feedback.6 Dec 2023\n                                        IETF 118 post-meeting survey \n                                        IETF 118 Prague was held 4-10 November 2023 and the results of the post-meeting survey are now available on a web-based interactive dashboard.30 Nov 2023All newsSearch the IETF"
       },
-      "output": "The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from 16-22 March 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard.",
+      "output": "The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from March 16-22, 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard.",
       "metrics": null,
       "error": null,
-      "parent_run_id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2_0",
-      "start_time": "2023-12-07T23:16:45.308652Z",
-      "end_time": "2023-12-07T23:16:47.303087Z",
+      "parent_run_id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2_0",
+      "start_time": "2023-12-08T01:25:54.651871Z",
+      "end_time": "2023-12-08T01:25:56.832965Z",
       "index": 0,
       "api_calls": [
         {
@@ -564,16 +564,16 @@
             "temperature": 0.2,
             "text": "\nIETF  | Internet Engineering Task ForceSkip to main content\n                Search\n            \n                        About us\n                    Introduction to the IETFGroupsOpen recordsAdministrationLiaisons\n                        Topics of interest\n                    Automated network managementThe Internet of ThingsNew transport technologySecurity & privacyIETF AreasWorking Group keywords\n                        Participate\n                    Working groupsMailing listsInternet-DraftsMeetingsHackathonsBirds of a Feather\n                        Internet standards\n                    RFCsIntellectual property rightsStandards processPublishing and accessing RFCsProtocol registries (IANA)News & blogSupport usContactLinksQuick linksIETF 119 BrisbaneI-D author resourcesWG chair resourcesIETF DatatrackerEmail list archive search\n                            Search\n                        \n                            Donate\n                        \n                Donate\n            GoWelcome to the IETFIETF 119 Brisbane registration is openRegistration for IETF 119 Brisbane is now open. Join more than 1000 leading technologists in 100s of sessions, including the IETF Hackathon, from 16-22 March 2024.Learn more and register todayUpcoming eventsIETF 119 Brisbane IETF 119 starts Saturday 16 March and runs through Friday afternoon, 22 March.IETF 120 Vancouver IETF 120 starts Saturday 20 July and runs through Friday afternoon, 26 July.All eventsWhat's new?\n                                        IETF Administration LLC 2024 Draft Budget \n                                        The IETF Administration LLC has prepared its draft budget for 2024 and now seeks community feedback.6 Dec 2023\n                                        IETF 118 post-meeting survey \n                                        IETF 118 Prague was held 4-10 November 2023 and the results of the post-meeting survey are now available on a web-based interactive dashboard.30 Nov 2023All newsSearch the IETF"
           },
-          "output": "The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from 16-22 March 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard.",
-          "start_time": 1702009005.309661,
-          "end_time": 1702009007.302003,
+          "output": "The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from March 16-22, 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard.",
+          "start_time": 1702016754.653217,
+          "end_time": 1702016756.832965,
           "error": null,
           "children": [
             {
               "name": "openai.resources.chat.completions.Completions.create",
               "type": "LLM",
               "inputs": {
-                "self": "<openai.resources.chat.completions.Completions object at 0x00000182354C3D40>",
+                "self": "<openai.resources.chat.completions.Completions object at 0x0000020F78C3D790>",
                 "model": "tr-prod-openai-gpt-35-turbo-0613",
                 "messages": [
                   {
@@ -600,18 +600,18 @@
                   "ms-azure-ai-promptflow-user-agent": "promptflow-cli/1.1.1 prompt-flow-extension/1.6.0 (win32; x64) VSCode/1.85.0 promptflow-sdk/1.1.1",
                   "ms-azure-ai-promptflow-run-mode": "Test",
                   "ms-azure-ai-promptflow-flow-id": "default_flow_id",
-                  "ms-azure-ai-promptflow-root-run-id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2",
+                  "ms-azure-ai-promptflow-root-run-id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2",
                   "ms-azure-ai-promptflow-called-from": "aoai-tool"
                 }
               },
               "output": {
-                "id": "chatcmpl-8THtl9XpFsjhzeG9qiYo52kmSiGdz",
+                "id": "chatcmpl-8TJulyybAItQcJAY62WkUS3Me4lo2",
                 "choices": [
                   {
                     "finish_reason": "stop",
                     "index": 0,
                     "message": {
-                      "content": "The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from 16-22 March 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard.",
+                      "content": "The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from March 16-22, 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard.",
                       "role": "assistant",
                       "function_call": null,
                       "tool_calls": null
@@ -636,14 +636,14 @@
                     }
                   }
                 ],
-                "created": 1701991005,
+                "created": 1701998755,
                 "model": "gpt-35-turbo",
                 "object": "chat.completion",
                 "system_fingerprint": null,
                 "usage": {
-                  "completion_tokens": 104,
+                  "completion_tokens": 105,
                   "prompt_tokens": 409,
-                  "total_tokens": 513
+                  "total_tokens": 514
                 },
                 "prompt_filter_results": [
                   {
@@ -669,8 +669,8 @@
                   }
                 ]
               },
-              "start_time": 1702009005.313029,
-              "end_time": 1702009007.302003,
+              "start_time": 1702016754.655733,
+              "end_time": 1702016756.832965,
               "error": null,
               "children": null,
               "node_name": null
@@ -687,17 +687,17 @@
         "stderr": ""
       },
       "system_metrics": {
-        "completion_tokens": 104,
+        "completion_tokens": 105,
         "prompt_tokens": 409,
-        "total_tokens": 513,
-        "duration": 1.994435
+        "total_tokens": 514,
+        "duration": 2.181094
       },
-      "result": "The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from 16-22 March 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard."
+      "result": "The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from March 16-22, 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard."
     },
     {
       "node": "classify_with_llm",
-      "flow_run_id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2",
-      "run_id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2_classify_with_llm_0",
+      "flow_run_id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2",
+      "run_id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2_classify_with_llm_0",
       "status": "Completed",
       "inputs": {
         "deployment_name": "tr-prod-openai-gpt-35-turbo-0613",
@@ -729,15 +729,15 @@
         ],
         "max_tokens": 128,
         "temperature": 0.2,
-        "text_content": "The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from 16-22 March 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard.",
+        "text_content": "The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from March 16-22, 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard.",
         "url": "https://www.ietf.org"
       },
       "output": "{\"category\": \"Academic\", \"evidence\": \"Text content\"}",
       "metrics": null,
       "error": null,
-      "parent_run_id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2_0",
-      "start_time": "2023-12-07T23:16:47.306418Z",
-      "end_time": "2023-12-07T23:16:47.802362Z",
+      "parent_run_id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2_0",
+      "start_time": "2023-12-08T01:25:56.834966Z",
+      "end_time": "2023-12-08T01:25:57.597102Z",
       "index": 0,
       "api_calls": [
         {
@@ -774,19 +774,19 @@
             ],
             "max_tokens": 128,
             "temperature": 0.2,
-            "text_content": "The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from 16-22 March 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard.",
+            "text_content": "The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from March 16-22, 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard.",
             "url": "https://www.ietf.org"
           },
           "output": "{\"category\": \"Academic\", \"evidence\": \"Text content\"}",
-          "start_time": 1702009007.307442,
-          "end_time": 1702009007.799356,
+          "start_time": 1702016756.834966,
+          "end_time": 1702016757.595025,
           "error": null,
           "children": [
             {
               "name": "openai.resources.chat.completions.Completions.create",
               "type": "LLM",
               "inputs": {
-                "self": "<openai.resources.chat.completions.Completions object at 0x00000182356EF7A0>",
+                "self": "<openai.resources.chat.completions.Completions object at 0x0000020F78C4F650>",
                 "model": "tr-prod-openai-gpt-35-turbo-0613",
                 "messages": [
                   {
@@ -795,7 +795,7 @@
                   },
                   {
                     "role": "user",
-                    "content": "The selection range of the value of \"category\" must be within \"Movie\", \"App\", \"Academic\", \"Channel\", \"Profile\", \"PDF\" and \"None\".\nThe selection range of the value of \"evidence\" must be within \"Url\", \"Text content\", and \"Both\".\nHere are a few examples:\nURL: https://play.google.com/store/apps/details?id=com.spotify.music\nText content: Spotify is a free music and podcast streaming app with millions of songs, albums, and original podcasts. It also offers audiobooks, so users can enjoy thousands of stories. It has a variety of features such as creating and sharing music playlists, discovering new music, and listening to popular and exclusive podcasts. It also has a Premium subscription option which allows users to download and listen offline, and access ad-free music. It is available on all devices and has a variety of genres and artists to choose from.\nOUTPUT:\n{\"category\": \"App\", \"evidence\": \"Both\"}\n\nURL: https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw\nText content: NFL Sunday Ticket is a service offered by Google LLC that allows users to watch NFL games on YouTube. It is available in 2023 and is subject to the terms and privacy policy of Google LLC. It is also subject to YouTube's terms of use and any applicable laws.\nOUTPUT:\n{\"category\": \"Channel\", \"evidence\": \"URL\"}\n\nURL: https://arxiv.org/abs/2303.04671\nText content: Visual ChatGPT is a system that enables users to interact with ChatGPT by sending and testreceiving not only languages but also images, providing complex visual questions or visual editing instructions, and providing feedback and asking for corrected results. It incorporates different Visual Foundation Models and is publicly available. Experiments show that Visual ChatGPT opens the door to investigating the visual roles of ChatGPT with the help of Visual Foundation Models.\nOUTPUT:\n{\"category\": \"Academic\", \"evidence\": \"Text content\"}\n\nURL: https://ab.politiaromana.ro/\nText content: There is no content available for this text.\nOUTPUT:\n{\"category\": \"None\", \"evidence\": \"None\"}\n\n\nFor a given URL and text content, classify the url to complete the category and indicate evidence:\nURL: https://www.ietf.org\nText content: The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from 16-22 March 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard..\nOUTPUT:"
+                    "content": "The selection range of the value of \"category\" must be within \"Movie\", \"App\", \"Academic\", \"Channel\", \"Profile\", \"PDF\" and \"None\".\nThe selection range of the value of \"evidence\" must be within \"Url\", \"Text content\", and \"Both\".\nHere are a few examples:\nURL: https://play.google.com/store/apps/details?id=com.spotify.music\nText content: Spotify is a free music and podcast streaming app with millions of songs, albums, and original podcasts. It also offers audiobooks, so users can enjoy thousands of stories. It has a variety of features such as creating and sharing music playlists, discovering new music, and listening to popular and exclusive podcasts. It also has a Premium subscription option which allows users to download and listen offline, and access ad-free music. It is available on all devices and has a variety of genres and artists to choose from.\nOUTPUT:\n{\"category\": \"App\", \"evidence\": \"Both\"}\n\nURL: https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw\nText content: NFL Sunday Ticket is a service offered by Google LLC that allows users to watch NFL games on YouTube. It is available in 2023 and is subject to the terms and privacy policy of Google LLC. It is also subject to YouTube's terms of use and any applicable laws.\nOUTPUT:\n{\"category\": \"Channel\", \"evidence\": \"URL\"}\n\nURL: https://arxiv.org/abs/2303.04671\nText content: Visual ChatGPT is a system that enables users to interact with ChatGPT by sending and testreceiving not only languages but also images, providing complex visual questions or visual editing instructions, and providing feedback and asking for corrected results. It incorporates different Visual Foundation Models and is publicly available. Experiments show that Visual ChatGPT opens the door to investigating the visual roles of ChatGPT with the help of Visual Foundation Models.\nOUTPUT:\n{\"category\": \"Academic\", \"evidence\": \"Text content\"}\n\nURL: https://ab.politiaromana.ro/\nText content: There is no content available for this text.\nOUTPUT:\n{\"category\": \"None\", \"evidence\": \"None\"}\n\n\nFor a given URL and text content, classify the url to complete the category and indicate evidence:\nURL: https://www.ietf.org\nText content: The Internet Engineering Task Force (IETF) has opened registration for IETF 119 Brisbane, which will take place from March 16-22, 2024. The event will feature hundreds of sessions and the IETF Hackathon, bringing together over 1000 leading technologists. The IETF Administration LLC has also released its draft budget for 2024 and is seeking community feedback. Additionally, the results of the post-meeting survey for IETF 118 Prague are now available on a web-based interactive dashboard..\nOUTPUT:"
                   }
                 ],
                 "temperature": 0.2,
@@ -813,12 +813,12 @@
                   "ms-azure-ai-promptflow-user-agent": "promptflow-cli/1.1.1 prompt-flow-extension/1.6.0 (win32; x64) VSCode/1.85.0 promptflow-sdk/1.1.1",
                   "ms-azure-ai-promptflow-run-mode": "Test",
                   "ms-azure-ai-promptflow-flow-id": "default_flow_id",
-                  "ms-azure-ai-promptflow-root-run-id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2",
+                  "ms-azure-ai-promptflow-root-run-id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2",
                   "ms-azure-ai-promptflow-called-from": "aoai-tool"
                 }
               },
               "output": {
-                "id": "chatcmpl-8THtnqDj2cjnrHi0t6zgNw54unLyy",
+                "id": "chatcmpl-8TJunZigkE7IJevkDC6TjW4jtwjFi",
                 "choices": [
                   {
                     "finish_reason": "stop",
@@ -849,14 +849,14 @@
                     }
                   }
                 ],
-                "created": 1701991007,
+                "created": 1701998757,
                 "model": "gpt-35-turbo",
                 "object": "chat.completion",
                 "system_fingerprint": null,
                 "usage": {
                   "completion_tokens": 15,
-                  "prompt_tokens": 665,
-                  "total_tokens": 680
+                  "prompt_tokens": 666,
+                  "total_tokens": 681
                 },
                 "prompt_filter_results": [
                   {
@@ -882,8 +882,8 @@
                   }
                 ]
               },
-              "start_time": 1702009007.312629,
-              "end_time": 1702009007.799356,
+              "start_time": 1702016756.836966,
+              "end_time": 1702016757.595025,
               "error": null,
               "children": null,
               "node_name": null
@@ -901,16 +901,16 @@
       },
       "system_metrics": {
         "completion_tokens": 15,
-        "prompt_tokens": 665,
-        "total_tokens": 680,
-        "duration": 0.495944
+        "prompt_tokens": 666,
+        "total_tokens": 681,
+        "duration": 0.762136
       },
       "result": "{\"category\": \"Academic\", \"evidence\": \"Text content\"}"
     },
     {
       "node": "convert_to_dict",
-      "flow_run_id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2",
-      "run_id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2_convert_to_dict_0",
+      "flow_run_id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2",
+      "run_id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2_convert_to_dict_0",
       "status": "Completed",
       "inputs": {
         "input_str": "{\"category\": \"Academic\", \"evidence\": \"Text content\"}"
@@ -921,9 +921,9 @@
       },
       "metrics": null,
       "error": null,
-      "parent_run_id": "0a1d402b-5be1-4010-a7a3-b8ca5394dce2_0",
-      "start_time": "2023-12-07T23:16:47.805368Z",
-      "end_time": "2023-12-07T23:16:47.806367Z",
+      "parent_run_id": "3c280f51-7cee-4555-9dbb-ffa4e16747a2_0",
+      "start_time": "2023-12-08T01:25:57.600011Z",
+      "end_time": "2023-12-08T01:25:57.601012Z",
       "index": 0,
       "api_calls": [
         {
@@ -936,8 +936,8 @@
             "category": "Academic",
             "evidence": "Text content"
           },
-          "start_time": 1702009007.806367,
-          "end_time": 1702009007.806367,
+          "start_time": 1702016757.601012,
+          "end_time": 1702016757.601012,
           "error": null,
           "children": null,
           "node_name": "convert_to_dict"
@@ -951,7 +951,7 @@
         "stderr": ""
       },
       "system_metrics": {
-        "duration": 0.000999
+        "duration": 0.001001
       },
       "result": {
         "category": "Academic",

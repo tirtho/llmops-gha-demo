@@ -27,8 +27,10 @@ nodes:
     max_tokens: 128
     temperature: 0.2
     text: ${fetch_text_content_from_url.output}
-  connection: to_replace_with_connection_name
+  provider: AzureOpenAI
+  connection: tr-prod-opeai-connection
   api: chat
+  module: promptflow.tools.aoai
 - name: prepare_examples
   type: python
   source:
@@ -47,7 +49,8 @@ nodes:
     url: ${inputs.url}
     text_content: ${summarize_text_content.output}
     examples: ${prepare_examples.output}
-  connection: to_replace_with_connection_name
+  provider: AzureOpenAI
+  connection: tr-prod-opeai-connection
   api: chat
 - name: convert_to_dict
   type: python
