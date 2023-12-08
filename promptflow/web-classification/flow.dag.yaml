@@ -1,7 +1,7 @@
 inputs:
   url:
     type: string
-    default: https://play.google.com/store/apps/details?id=com.twitter.android
+    default: https://www.ietf.org
 outputs:
   category:
     type: string
@@ -23,14 +23,12 @@ nodes:
     type: code
     path: summarize_text_content.jinja2
   inputs:
-    deployment_name: gpt-35-turbo-0301
+    deployment_name: tr-prod-openai-gpt-35-turbo-0613
     max_tokens: 128
     temperature: 0.2
     text: ${fetch_text_content_from_url.output}
-  provider: AzureOpenAI
-  connection: Default_AzureOpenAI
+  connection: to_replace_with_connection_name
   api: chat
-  module: promptflow.tools.aoai
 - name: prepare_examples
   type: python
   source:
@@ -43,14 +41,13 @@ nodes:
     type: code
     path: classify_with_llm.jinja2
   inputs:
-    deployment_name: gpt-35-turbo-0301
+    deployment_name: tr-prod-openai-gpt-35-turbo-0613
     max_tokens: 128
     temperature: 0.2
     url: ${inputs.url}
     text_content: ${summarize_text_content.output}
     examples: ${prepare_examples.output}
-  provider: AzureOpenAI
-  connection: Default_AzureOpenAI
+  connection: to_replace_with_connection_name
   api: chat
 - name: convert_to_dict
   type: python
